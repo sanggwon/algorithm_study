@@ -74,3 +74,11 @@
    ![img](https://t1.daumcdn.net/cfile/tistory/225D684B5783AAC90B)
 
    문자열 'ACAYKP'와 'CAPCAK'의 LCS는 'ACAK'이다.
+
+
+
+출처: 
+
+https://twinw.tistory.com/126
+
+ [흰고래의꿈]
